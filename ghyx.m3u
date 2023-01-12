@@ -143,7 +143,7 @@ http://www.ddqq.fun:5678/ghyx.php?id=BTVQingNianHD_6000
 http://www.ddqq.fun:5678/ghyx.php?id=BTV8HD_2000
 #EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻BTV-9
 http://www.ddqq.fun:5678/ghyx.php?id=BTV9HD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北京卡酷BTV10.png" group-title="北京",北京卡酷BTV-10 标清
+#EXTINF:-1,tvg-id="北京卡酷" tvg-name="北京卡酷" tvg-logo="https://epg.112114.xyz/logo/北京卡酷BTV10.png" group-title="北京",北京卡酷BTV-10 标清
 http://www.ddqq.fun:5678/ghyx.php?id=BTV10HD_2000
 #EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png" group-title="其他",京视剧场 标清
 http://www.ddqq.fun:5678/ghyx.php?id=JinShiJuChangHD_2000
@@ -151,29 +151,29 @@ http://www.ddqq.fun:5678/ghyx.php?id=JinShiJuChangHD_2000
 http://www.ddqq.fun:5678/ghyx.php?id=XinYuLeHD_2000
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ChinaQiXiangPinDaoHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
 http://www.ddqq.fun:5678/ghyx.php?id=QuanJiShiHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
 http://www.ddqq.fun:5678/ghyx.php?id=CETV1HD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="其他",CETV3 标清
+#EXTINF:-1,tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="其他",CETV3 标清
 http://www.ddqq.fun:5678/ghyx.php?id=CETV3HD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4 标清
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",CETV4 标清
 http://www.ddqq.fun:5678/ghyx.php?id=CETV4HD_2000
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",早期教育 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ZaoQiJiaoYuHD_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱家购物.png" group-title="其他",爱家购物
 http://www.ddqq.fun:5678/ghyx.php?id=AiJiaGouWuHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/时尚购物.png" group-title="其他",时尚购物 标清
+#EXTINF:-1,tvg-id="爱家购物" tvg-name="爱家购物" tvg-logo="https://epg.112114.xyz/logo/时尚购物.png" group-title="其他",时尚购物 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ShiShangGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="其他",优购物 标清
+#EXTINF:-1,tvg-id="优购物" tvg-name="优购物" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="其他",优购物 标清
 http://www.ddqq.fun:5678/ghyx.php?id=YouGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="其他",家有购物 标清
+#EXTINF:-1,tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="其他",家有购物 标清
 http://www.ddqq.fun:5678/ghyx.php?id=JiaYouGouWuHD_2000
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
 http://www.ddqq.fun:5678/ghyx.php?id=DongManXiuChangHD_6000
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
 http://www.ddqq.fun:5678/ghyx.php?id=YouXiFengYunHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="其他",四海钓鱼 标清
+#EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="其他",四海钓鱼 标清
 http://www.ddqq.fun:5678/ghyx.php?id=SiHaiDiaoYuHD_2000
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="其他",法治天地 标清
 http://www.ddqq.fun:5678/ghyx.php?id=FaZhiTianDiHD_2000
@@ -185,21 +185,21 @@ http://www.ddqq.fun:5678/ghyx.php?id=ZhongHuaMeiShiHD_2000
 http://www.ddqq.fun:5678/ghyx.php?id=HuanQiuLvYouHD_2000
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视购物 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ZhongShiGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物 标清
+#EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物 标清
 http://www.ddqq.fun:5678/ghyx.php?id=YangShiGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
+#EXTINF:-1,tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
 http://www.ddqq.fun:5678/ghyx.php?id=GHSHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动感音乐.png" group-title="其他",动感音乐 标清
+#EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://epg.112114.xyz/logo/动感音乐.png" group-title="其他",动感音乐 标清
 http://www.ddqq.fun:5678/ghyx.php?id=DongGanYinYueHD_2000
 #EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://epg.112114.xyz/logo/收藏天下.png" group-title="其他",收藏天下 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ShouCangTianXiaHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
 http://www.ddqq.fun:5678/ghyx.php?id=DongFangCaiJingHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产 标清
+#EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="其他",中华特产 标清
 http://www.ddqq.fun:5678/ghyx.php?id=KaoShiZaiXianHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="其他",优优宝贝 标清
+#EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="其他",优优宝贝 标清
 http://www.ddqq.fun:5678/ghyx.php?id=YouYouBaoBeiHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/弈坛春秋.png" group-title="其他",弈坛春秋 标清
+#EXTINF:-1,tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://epg.112114.xyz/logo/弈坛春秋.png" group-title="其他",弈坛春秋 标清
 http://www.ddqq.fun:5678/ghyx.php?id=YiTanChunQiuHD_2000
 #EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",老故事 标清
 http://www.ddqq.fun:5678/ghyx.php?id=LaoGuShiHD_2000
