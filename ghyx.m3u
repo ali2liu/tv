@@ -35,7 +35,7 @@ http://www.ddqq.fun:5678/ghyx.php?id=CCTV15HD_6000
 http://www.ddqq.fun:5678/ghyx.php?id=CCTV16HD_6000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://www.ddqq.fun:5678/ghyx.php?id=CCTV17HD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视
+#EXTINF:-1,tvg-id="歌华导视" tvg-name="歌华导视" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视
 http://www.ddqq.fun:5678/ghyx.php?id=GeHuadaoshiHD_6000
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院 标清
 http://www.ddqq.fun:5678/ghyx.php?id=CHCHD_2000
