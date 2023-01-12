@@ -161,7 +161,7 @@ http://www.ddqq.fun:5678/ghyx.php?id=CETV3HD_2000
 http://www.ddqq.fun:5678/ghyx.php?id=CETV4HD_2000
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",早期教育 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ZaoQiJiaoYuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱家购物.png" group-title="其他",爱家购物
+#EXTINF:-1,tvg-id="爱家购物" tvg-name="爱家购物" tvg-logo="https://epg.112114.xyz/logo/爱家购物.png" group-title="其他",爱家购物
 http://www.ddqq.fun:5678/ghyx.php?id=AiJiaGouWuHD_6000
 #EXTINF:-1,tvg-id="爱家购物" tvg-name="爱家购物" tvg-logo="https://epg.112114.xyz/logo/时尚购物.png" group-title="其他",时尚购物 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ShiShangGouWuHD_2000
@@ -179,7 +179,7 @@ http://www.ddqq.fun:5678/ghyx.php?id=SiHaiDiaoYuHD_2000
 http://www.ddqq.fun:5678/ghyx.php?id=FaZhiTianDiHD_2000
 #EXTINF:-1,tvg-id="置业" tvg-name="置业" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="其他",置业频道 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ZhiYePinDaoHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="其他",中华美食 标清
+#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="其他",中华美食 标清
 http://www.ddqq.fun:5678/ghyx.php?id=ZhongHuaMeiShiHD_2000
 #EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="其他",环球旅游 标清
 http://www.ddqq.fun:5678/ghyx.php?id=HuanQiuLvYouHD_2000
