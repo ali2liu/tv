@@ -5,7 +5,7 @@ http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-50P码率阉割版小果源
 http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版CQYX源
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版CQYX源
 http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版Bestv源
 http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
