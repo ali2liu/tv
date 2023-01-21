@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV4K满血豆豆源" tvg-name="CCTV4K-HLG-50P满血豆豆源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-50P满血豆豆源
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-50P满血豆豆源
 http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4KYSP投屏版源" tvg-name="CCTV4K-HLG-25PYSP投屏版源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-25P帧率阉割版YSP投屏版源
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-25P帧率阉割版YSP投屏版源
 http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K小果源" tvg-name="CCTV4K-HLG-50P小果源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-50P码率阉割版小果源
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-HLG-50P码率阉割版小果源
 http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4KCQYX源" tvg-name="CCTV4K-SDR-25P-CQYX源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版CQYX源
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版CQYX源
 http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4KBestv源" tvg-name="CCTV4K-SDR-25P-Bestv源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版Bestv源
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="春晚特别频道",CCTV4K-SDR-25P帧率高动态范围阉割版Bestv源
 http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 https://www.whalenas.com/bestv/index.php?id=cctv16hd4k/15000000
