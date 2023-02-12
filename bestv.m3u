@@ -3,7 +3,7 @@
 http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K-HLG-50P满血
 http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
-#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K频道",广东综艺-HLG-50P满血
+#EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺4K.png" group-title="4K频道",广东综艺-HLG-50P满血
 http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/feicui.png" group-title="港澳台",翡翠台
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
@@ -23,7 +23,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="4K频道",欢笑剧场4k
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
