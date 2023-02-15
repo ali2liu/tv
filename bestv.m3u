@@ -6,7 +6,7 @@ http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K频道",广东综艺-HLG-50P满血
 http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠.png" group-title="港澳台",翡翠台
-http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠.png" group-title="港澳台",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 #EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
