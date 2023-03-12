@@ -13,7 +13,7 @@ http://www.ddqq.fun:5678/gudou.php?phone=13978919955&ptoken=0yRjXRS0ymaHcGGXI5we
 http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经体育资讯台" tvg-name="无线财经体育资讯台" tvg-logo="https://epg.112114.xyz/logo/明珠.png" group-title="港澳台",无线财经体育资讯台
 http://lttv.ddqq.fun:8085/tvb.php?id=2&hq
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K-50P
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-HDR4K-50P
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
