@@ -33,3 +33,5 @@ http://lttv.ddqq.fun:35455/youtube/dp8PhLsUcFE(?quality=1080)
 http://lttv.ddqq.fun:35455/youtube/NZOoe3ir1dA(?quality=1080)
 #EXTINF:-1,tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://epg.112114.xyz/logo/CNBC.png" group-title="欧美",CNBC
 http://lttv.ddqq.fun:35455/youtube/9NyxcX3rhQs(?quality=1080)
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视.png" group-title="香港",凤凰资讯
+http://lttv.ddqq.fun:35455/youtube/dmDg7NfUoSw(?quality=1080)
