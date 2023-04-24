@@ -275,46 +275,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226194/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225615/2/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="江西教育频道" tvg-logo="https://epg.112114.xyz/logo/江西教育.png" group-title="地方",江西教育频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226197/2/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="IPTV高清院线" tvg-logo="https://epg.112114.xyz/logo/IPTV高清院线.png" group-title="地方",IPTV高清院线
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="IPTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV古装剧场.png" group-title="地方",IPTV古装剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="IPTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV家庭剧场.png" group-title="地方",IPTV家庭剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="IPTV经典剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV经典剧场.png" group-title="地方",IPTV经典剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="IPTV抗战剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV抗战剧场.png" group-title="地方",IPTV抗战剧场
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="IPTV芒果互娱" tvg-logo="https://epg.112114.xyz/logo/IPTV芒果互娱.png" group-title="地方",IPTV芒果互娱
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南经视" tvg-logo="https://epg.112114.xyz/logo/湖南经视.png" group-title="地方",湖南经视
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南都市" tvg-logo="https://epg.112114.xyz/logo/湖南都市.png" group-title="地方",湖南都市
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南电视剧" tvg-logo="https://epg.112114.xyz/logo/湖南电视剧.png" group-title="地方",湖南电视剧
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南电影" tvg-logo="https://epg.112114.xyz/logo/湖南电影.png" group-title="地方",湖南电影
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://epg.112114.xyz/logo/湖南娱乐.png" group-title="地方",湖南娱乐
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="地方",金鹰纪实
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001007000000063477/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南公共" tvg-logo="https://epg.112114.xyz/logo/湖南公共.png" group-title="地方",湖南公共
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="湖南国际" tvg-logo="https://epg.112114.xyz/logo/湖南国际.png" group-title="地方",湖南国际
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="地方",金鹰卡通
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="芒果汽车" tvg-logo="https://epg.112114.xyz/logo/芒果logo.png" group-title="地方",芒果汽车
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196967/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="芒果乐淘" tvg-logo="https://epg.112114.xyz/logo/芒果logo.png" group-title="地方",芒果乐淘
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="芒果乐活" tvg-logo="https://epg.112114.xyz/logo/芒果logo.png" group-title="地方",芒果乐活
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000154081/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="金色夕阳" tvg-logo="https://epg.112114.xyz/logo/金色夕阳.png" group-title="地方",金色夕阳
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196971/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="地方",先锋乒羽
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028048/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://epg.112114.xyz/logo/海南少儿.png" group-title="地方",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://epg.112114.xyz/logo/海南文旅.png" group-title="地方",海南文旅
