@@ -45,9 +45,9 @@ http://awei.beimua.com/iptv.php?id=61
 http://awei.beimua.com/yes.php?id=62
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
 http://awei.beimua.com/iptv.php?id=63
-#EXTINF:-1,tvg-id="ELEVEN1" tvg-name="ELEVEN1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN1.png" group-title="港澳台",ELEVEN 1
+#EXTINF:-1,tvg-id="ELEVEN1" tvg-name="ELEVEN1" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="港澳台",ELEVEN 1
 http://awei.beimua.com/iptv.php?id=76
-#EXTINF:-1,tvg-id="ELEVEN2" tvg-name="ELEVEN2" tvg-logo="https://epg.112114.xyz/logo/ELEVEN2.png" group-title="港澳台",ELEVEN 2
+#EXTINF:-1,tvg-id="ELEVEN2" tvg-name="ELEVEN2" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="港澳台",ELEVEN 2
 http://awei.beimua.com/iptv.php?id=77
 #EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="港澳台",纬来体育
 http://awei.beimua.com/iptv.php?id=73
