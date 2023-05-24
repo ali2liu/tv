@@ -61,6 +61,10 @@ http://awei.beimua.com/iptv.php?id=79
 http://awei.beimua.com/iptv.php?id=80
 #EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="港澳台",爱尔达体育3
 http://awei.beimua.com/iptv.php?id=81
+#EXTINF:-1,tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://epg.112114.xyz/logo/博斯魅力3.png" group-title="港澳台",博斯魅力
+http://awei.beimua.com/yes.php?id=21
+#EXTINF:-1,tvg-id="卫视中文" tvg-name="卫视中文" tvg-logo="https://epg.112114.xyz/logo/卫视中文.png" group-title="港澳台",卫视中文
+http://awei.beimua.com/yes.php?id=20
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-HDR4K-50P
