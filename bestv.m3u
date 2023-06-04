@@ -4,9 +4,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠.png" group-title="港澳台",翡翠台
-http://awei.beimua.com/yes.php?id=16
+
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠.png" group-title="港澳台",明珠台
-http://awei.beimua.com/yes.php?id=17
+
 #EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
 http://lttv.ddqq.fun:8085/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="无线财经体育资讯台" tvg-name="无线财经体育资讯台" tvg-logo="https://epg.112114.xyz/logo/明珠.png" group-title="港澳台",无线财经体育资讯台
