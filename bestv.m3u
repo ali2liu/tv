@@ -89,7 +89,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="斗鱼4K" tvg-name="斗鱼4K" tvg-logo="https://epg.112114.xyz/logo/斗鱼4K.png" group-title="4K频道",斗鱼4K
-http://159.75.85.63:35455/douyu/9249162
+http://mmitv.top/test/douyu.php?id=9249162
 #EXTINF:-1,tvg-id="FTV4K" tvg-name="FTV4K" tvg-logo="https://epg.112114.xyz/logo/FTV4K.png" group-title="4K频道",FashionTV4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="4K频道",华数4K影视
