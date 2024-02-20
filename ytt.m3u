@@ -11,10 +11,10 @@ http://lttv.ddqq.fun:35455/youtube/ylYJSBUgaMA
 http://lttv.ddqq.fun:35455/youtube/2dfAzcDf8Zg
 #EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="台湾",东森财经新闻
 http://lttv.ddqq.fun:35455/youtube/WHEPzbFA3hw
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇Live
-http://lttv.ddqq.fun:35455/youtube/B7Zp3d6xXWw(?quality=1080)
-#EXTINF:-1,tvg-id="寰宇新闻Global" tvg-name="寰宇新闻Global" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="台湾",寰宇新闻Global
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台湾",寰宇新闻
 http://lttv.ddqq.fun:35455/youtube/w87VGpgd90U
+#EXTINF:-1,tvg-id="寰宇新闻Global" tvg-name="寰宇新闻Global" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="台湾",寰宇新闻Global
+http://lttv.ddqq.fun:35455/youtube/6IquAgfvYmc
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台湾",台视新闻
 http://lttv.ddqq.fun:35455/youtube/uIA55BRnhFE
 #EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台湾",镜新闻
