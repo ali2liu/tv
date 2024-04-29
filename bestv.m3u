@@ -142,41 +142,43 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000481/ind
 #EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视",CETV4
 
 #EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="央视",CGTN
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://lttv.ddqq.fun:8085/ysp.php?id=cgtn
 #EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="央视",CGTN Documentary
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://lttv.ddqq.fun:8085/ysp.php?id=cgtnjl
 #EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="央视",CGTN Français
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://lttv.ddqq.fun:8085/ysp.php?id=cgtnf
 #EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="央视",CGTN Русский
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://lttv.ddqq.fun:8085/ysp.php?id=cgtnr
 #EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="央视",CGTN Español
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://lttv.ddqq.fun:8085/ysp.php?id=cgtne
 #EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视",CGTN العربية
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://lttv.ddqq.fun:8085/ysp.php?id=cgtna
 #EXTINF:-1 tvg-id="6563" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE8.jpg" group-title="央视",兵器科技
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=bqkj
 #EXTINF:-1 tvg-id="6562" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE7.jpg" group-title="央视",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=hjjc
 #EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTVshijiedili.png" group-title="央视",世界地理
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=sjdl
 #EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.com/tv/CCTVwenhuajingpin.png" group-title="央视",文化精品
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=whjp
 #EXTINF:-1 tvg-id="6584" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTVtaiqiu.png" group-title="央视",央视台球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=ystq
 #EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE13.jpg" group-title="央视",央视高网
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=gefwq
 #EXTINF:-1 tvg-id="6559" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTBfengyun.png" group-title="央视",风云剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=fyjc
 #EXTINF:-1 tvg-id="6557" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTVfengyunyinyue.png" group-title="央视",风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=fyyy
 #EXTINF:-1 tvg-id="6558" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTVdiyijuchang.png" group-title="央视",第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=dyjc
 #EXTINF:-1 tvg-id="6564" tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTVnvxing.png" group-title="央视",女性时尚
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=nxss
 #EXTINF:-1 tvg-id="6000" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTVfengyunzuqiu.png" group-title="央视",风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=fyzq
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+http://lttv.ddqq.fun:8085/ysp.php?id=dszn
+#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央视",卫生健康
+http://lttv.ddqq.fun:8085/ysp.php?id=wsjk
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视 8M
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视 8M
