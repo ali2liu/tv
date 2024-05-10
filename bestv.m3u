@@ -85,7 +85,7 @@ http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道",CCTV-8K
 #http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="4k修复" tvg-name="4k修复" tvg-logo="https://epg.112114.xyz/logo/4k修复.png" group-title="4K频道",4k修复
 #http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1659435587&from=1&hms_devid=2115&vqe=3
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K
@@ -95,10 +95,10 @@ http://mmitv.top/test/douyu.php?id=9249162
 #EXTINF:-1,tvg-id="FTV4K" tvg-name="FTV4K" tvg-logo="https://epg.112114.xyz/logo/FTV4K.png" group-title="4K频道",FashionTV4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="4K频道",华数4K影视
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩.png" group-title="4K频道",精彩影视
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+#http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱上4K"  tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K频道",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
@@ -154,31 +154,31 @@ http://lttv.ddqq.fun:8085/ysp.php?id=cgtne
 #EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="央视",CGTN العربية
 http://lttv.ddqq.fun:8085/ysp.php?id=cgtna
 #EXTINF:-1 tvg-id="6563" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE8.jpg" group-title="央视",兵器科技
-http://lttv.ddqq.fun:8085/ysp.php?id=bqkj
+#http://lttv.ddqq.fun:8085/ysp.php?id=bqkj
 #EXTINF:-1 tvg-id="6562" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE7.jpg" group-title="央视",怀旧剧场
-http://lttv.ddqq.fun:8085/ysp.php?id=hjjc
+#http://lttv.ddqq.fun:8085/ysp.php?id=hjjc
 #EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTVshijiedili.png" group-title="央视",世界地理
-http://lttv.ddqq.fun:8085/ysp.php?id=sjdl
+#http://lttv.ddqq.fun:8085/ysp.php?id=sjdl
 #EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.com/tv/CCTVwenhuajingpin.png" group-title="央视",文化精品
-http://lttv.ddqq.fun:8085/ysp.php?id=whjp
+#http://lttv.ddqq.fun:8085/ysp.php?id=whjp
 #EXTINF:-1 tvg-id="6584" tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTVtaiqiu.png" group-title="央视",央视台球
-http://lttv.ddqq.fun:8085/ysp.php?id=ystq
+#http://lttv.ddqq.fun:8085/ysp.php?id=ystq
 #EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE13.jpg" group-title="央视",央视高网
-http://lttv.ddqq.fun:8085/ysp.php?id=gefwq
+#http://lttv.ddqq.fun:8085/ysp.php?id=gefwq
 #EXTINF:-1 tvg-id="6559" tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTBfengyun.png" group-title="央视",风云剧场
-http://lttv.ddqq.fun:8085/ysp.php?id=fyjc
+#http://lttv.ddqq.fun:8085/ysp.php?id=fyjc
 #EXTINF:-1 tvg-id="6557" tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTVfengyunyinyue.png" group-title="央视",风云音乐
-http://lttv.ddqq.fun:8085/ysp.php?id=fyyy
+#http://lttv.ddqq.fun:8085/ysp.php?id=fyyy
 #EXTINF:-1 tvg-id="6558" tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTVdiyijuchang.png" group-title="央视",第一剧场
-http://lttv.ddqq.fun:8085/ysp.php?id=dyjc
+#http://lttv.ddqq.fun:8085/ysp.php?id=dyjc
 #EXTINF:-1 tvg-id="6564" tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTVnvxing.png" group-title="央视",女性时尚
-http://lttv.ddqq.fun:8085/ysp.php?id=nxss
+#http://lttv.ddqq.fun:8085/ysp.php?id=nxss
 #EXTINF:-1 tvg-id="6000" tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTVfengyunzuqiu.png" group-title="央视",风云足球
-http://lttv.ddqq.fun:8085/ysp.php?id=fyzq
+#http://lttv.ddqq.fun:8085/ysp.php?id=fyzq
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
-http://lttv.ddqq.fun:8085/ysp.php?id=dszn
+#http://lttv.ddqq.fun:8085/ysp.php?id=dszn
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央视",卫生健康
-http://lttv.ddqq.fun:8085/ysp.php?id=wsjk
+#http://lttv.ddqq.fun:8085/ysp.php?id=wsjk
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视 8M
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视 8M
@@ -266,13 +266,13 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="法治天地" tvg-name="Sitv法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="数字",法治天地
 
 #EXTINF:-1 tvg-id="1976" tvg-name="SiTV乐游" tvg-logo="https://epg.112114.xyz/logo/SITV乐游.png" group-title="数字",乐游频道
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="数字",五星体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="数字",新视觉
 http://lttv.ddqq.fun:8085/bestv.php?id=xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字",第一财经
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="数字",东方财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="数字",上海都市
