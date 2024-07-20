@@ -80,9 +80,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1,tvg-id="卫视中文" tvg-name="卫视中文" tvg-logo="https://epg.112114.xyz/logo/卫视中文.png" group-title="港澳台",卫视中文
 
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
-http://159.75.85.63:5679/cctv4k.php
+http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
-https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="4K频道",CCTV3-4K
 #http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4K频道",CCTV5-4K
