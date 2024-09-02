@@ -21,8 +21,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/RTHK32.png" group-title="港澳台",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1,tvg-id="TVBPlus" tvg-name="TVBP" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB.png" group-title="港澳台",TVB Plus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 #EXTINF:-1,tvg-id="TVBxinhe" tvg-name="TVBxinhe" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB6.png" group-title="港澳台",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/中天新闻.png" group-title="港澳台",中天新闻
@@ -163,7 +161,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="6562" tvg-name="CCTV怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视",怀旧剧场
 #http://lttv.ddqq.fun:8085/ysp.php?id=hjjc
-#EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVshijiedili.png" group-title="央视",世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVwenhuajingpin.png" group-title="央视",文化精品
 #http://lttv.ddqq.fun:8085/ysp.php?id=whjp
