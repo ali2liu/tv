@@ -17,10 +17,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 
 #EXTINF:-1,tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/viutv.png" group-title="港澳台",ViuTV
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-#EXTINF:-1,tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/RTHK31.png" group-title="港澳台",RTHK31
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/RTHK32.png" group-title="港澳台",RTHK32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1,tvg-id="TVBxinhe" tvg-name="TVBxinhe" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB6.png" group-title="港澳台",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
