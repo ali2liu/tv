@@ -2,7 +2,8 @@
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="港澳台",凤凰中文
 http://itv.ddqq.fun/fh.php?id=fhzw | user-agent=okhttp
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="港澳台",凤凰资讯
-http://itv.ddqq.fun/fh.php?id=fhzx | user-agent=okhttp
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#http://itv.ddqq.fun/fh.php?id=fhzx | user-agent=okhttp
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳台",凤凰香港
 http://itv.ddqq.fun/fh.php?id=fhhk | user-agent=okhttp
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="港澳台",翡翠台
