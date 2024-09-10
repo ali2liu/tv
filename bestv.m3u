@@ -179,6 +179,8 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="数字",CHC影迷电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
