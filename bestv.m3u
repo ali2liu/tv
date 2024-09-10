@@ -275,9 +275,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TaiwanPlus.png" group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNA
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/channelnewsasia.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Disney International
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Disney.png" group-title="国际",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNN.png" group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -285,7 +285,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-#EXTINF:-1 group-title="国际",Sky News
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/SkyNews.png" group-title="国际",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
@@ -293,11 +293,11 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="国际",Al Jazeera
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",Bloomberg Asia
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="国际",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
@@ -305,9 +305,9 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="国际",GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-#EXTINF:-1 group-title="国际",RT News
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/RTNews.png" group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",RT Documentary
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/RTDoc.png" group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -319,7 +319,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",Wild Planet
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/WILD%20PLANET.png" group-title="国际",Wild Planet
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 group-title="国际",Stadium
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
