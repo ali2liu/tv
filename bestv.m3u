@@ -101,21 +101,21 @@ http://php.jdshipin.com:8880/cqyx.php?id=bqkjHD
 http://php.jdshipin.com:8880/cqyx.php?id=hjjcHD
 #EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视",世界地理
 http://php.jdshipin.com:8880/cqyx.php?id=sjdlHD
-#EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVwenhuajingpin.png" group-title="央视",文化精品
+#EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",文化精品
 http://php.jdshipin.com:8880/cqyx.php?id=yswhHD
-#EXTINF:-1 tvg-id="6584" tvg-name="CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVtaiqiu.png" group-title="央视",央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球
 http://php.jdshipin.com:8880/cqyx.php?id=ystqHD
 #EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",央视高网
 http://php.jdshipin.com:8880/cqyx.php?id=golfHD
-#EXTINF:-1 tvg-id="6559" tvg-name="CCTV风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTBfengyun.png" group-title="央视",风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="CCTV风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视",风云剧场
 http://php.jdshipin.com:8880/cqyx.php?id=fyjcHD
-#EXTINF:-1 tvg-id="6557" tvg-name="CCTV风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVfengyunyinyue.png" group-title="央视",风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="CCTV风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐
 http://php.jdshipin.com:8880/cqyx.php?id=fyyyHD
-#EXTINF:-1 tvg-id="6558" tvg-name="CCTV第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVdiyijuchang.png" group-title="央视",第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="CCTV第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",第一剧场
 http://php.jdshipin.com:8880/cqyx.php?id=diyijuchangHD
-#EXTINF:-1 tvg-id="6564" tvg-name="CCTV女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVnvxing.png" group-title="央视",女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="CCTV女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",女性时尚
 http://php.jdshipin.com:8880/cqyx.php?id=nxssHD
-#EXTINF:-1 tvg-id="6000" tvg-name="CCTV风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVfengyunzuqiu.png" group-title="央视",风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="CCTV风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球
 http://php.jdshipin.com:8880/cqyx.php?id=fyzqHD
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="央视",电视指南
 http://php.jdshipin.com:8880/cqyx.php?id=dsznHD
