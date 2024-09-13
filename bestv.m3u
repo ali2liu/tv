@@ -210,7 +210,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+http://ss.iptviptv.site:9694/hls/718/index.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游频道
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字",欢笑剧场
@@ -238,7 +238,7 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="数字",哈哈炫动
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字",五星体育
-http://[2409:8087:5e08:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+http://ss.iptviptv.site:9694/hls/150/index.m3u8
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="数字",BRTV纪实科教
