@@ -211,6 +211,16 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="淘电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtdy.png" group-title="数字",淘电影
+http://ss.iptviptv.site:9694/hls/801/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="淘剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtjc.png" group-title="数字",淘剧场
+http://ss.iptviptv.site:9694/hls/802/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="淘娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtyl.png" group-title="数字",淘娱乐
+http://ss.iptviptv.site:9694/hls/803/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="淘baby" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtbb.png" group-title="数字",淘baby
+http://ss.iptviptv.site:9694/hls/804/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="淘精彩" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtjcai.png" group-title="数字",淘精彩
+http://ss.iptviptv.site:9694/hls/805/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
 http://ss.iptviptv.site:9694/hls/718/index.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游频道
