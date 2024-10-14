@@ -16,7 +16,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="港澳台",明珠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB4.png" group-title="港澳台",无线新闻台
-http://avd.iptviptv.site:9694/hls/906/index.m3u8
+http://qwe.iptviptv.site:9694/hls/906/index.m3u8
 #EXTINF:-1,tvg-id="无线财经体育资讯台" tvg-name="无线财经体育资讯台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB5.png" group-title="港澳台",无线财经体育资讯台
 
 #EXTINF:-1,tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/viutv.png" group-title="港澳台",ViuTV
@@ -29,7 +29,7 @@ http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
 #EXTINF:-1,tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="4K频道",翡翠台4K
-http://avd.iptviptv.site:9694/hls/902/index.m3u8
+http://qwe.iptviptv.site:9694/hls/902/index.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="4K频道",欢笑剧场4k
 http://php.jdshipin.com:8880/cqyx.php?id=hxjc_4K
 #EXTINF:-1,tvg-id="4k修复" tvg-name="4k修复" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/4k修复.png" group-title="4K频道",4k修复
@@ -168,7 +168,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
-http://avd.iptviptv.site:9694/hls/120/index.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
@@ -213,17 +212,17 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="淘电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtdy.png" group-title="数字",淘电影
-http://avd.iptviptv.site:9694/hls/801/index.m3u8
+http://qwe.iptviptv.site:9694/hls/801/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="淘剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtjc.png" group-title="数字",淘剧场
-http://avd.iptviptv.site:9694/hls/802/index.m3u8
+http://qwe.iptviptv.site:9694/hls/802/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="淘娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtyl.png" group-title="数字",淘娱乐
-http://avd.iptviptv.site:9694/hls/803/index.m3u8
+http://qwe.iptviptv.site:9694/hls/803/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="淘baby" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtbb.png" group-title="数字",淘baby
-http://avd.iptviptv.site:9694/hls/804/index.m3u8
+http://qwe.iptviptv.site:9694/hls/804/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="淘精彩" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/bjtjcai.png" group-title="数字",淘精彩
-http://avd.iptviptv.site:9694/hls/805/index.m3u8
+http://qwe.iptviptv.site:9694/hls/805/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
-http://avd.iptviptv.site:9694/hls/718/index.m3u8
+http://qwe.iptviptv.site:9694/hls/718/index.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游频道
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字",欢笑剧场
@@ -251,7 +250,7 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="数字",哈哈炫动
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字",五星体育
-http://avd.iptviptv.site:9694/hls/150/index.m3u8
+http://qwe.iptviptv.site:9694/hls/150/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字",都市剧场
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字",纪实人文
