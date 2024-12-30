@@ -54,7 +54,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="Clarity"  tvg-name="Clarity" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="4K频道",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-http://[2409:8087:74d6:22::7]:6610/270000001128/9900000501/index.m3u8?
+http://hldocker.ddqq.fun:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 http://39.134.68.155:6610/PLTV/88888888/224/3221225588/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
