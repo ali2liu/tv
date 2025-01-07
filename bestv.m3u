@@ -9,9 +9,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #http://itv.ddqq.fun/fh.php?id=fhzx | user-agent=okhttp
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="港澳台",凤凰香港
-#http://hldocker.ddqq.fun:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
-#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-http://itv.ddqq.fun/fh.php?id=fhhk | user-agent=okhttp
+https://live.hkdvb.com/hls/live/85.m3u8?token=411477088589537
+#http://itv.ddqq.fun/fh.php?id=fhhk | user-agent=okhttp
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="港澳台",华丽翡翠台
@@ -33,7 +32,7 @@ http://hldocker.ddqq.fun:35455/gaoma/cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="4K频道",翡翠台4K
-http://php.iptviptv.site:9694/hls/902/index.m3u8
+https://live.hkdvb.com/hls/live/800.m3u8?token=411477088589537
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hxjc4k.png" group-title="4K频道",欢笑剧场4k
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
 #EXTINF:-1,tvg-id="4k修复" tvg-name="4k修复" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/4k修复.png" group-title="4K频道",4k修复
